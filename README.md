@@ -9,5 +9,5 @@ Step 8: Type 192.168.99.100:5000 to run your image on browser
 Step 9: Type 192.168.99.10:5000/Student to see all records of students
 Step 10: Type 192.168.99.10:5000/Student/1 to see records of students based on ID
 Step 11: Type 192.168.99.10:5000/Student/Computer-Science to see records of all students with Computer Science course
-Step 11: Type 192.168.99.10:5000/Student/Information Sytems to see records of all students with Information Systems course
+Step 12: Type 192.168.99.10:5000/Student/Information Sytems to see records of all students with Information Systems course
 
