@@ -1,0 +1,64 @@
+{
+    "Student":[
+    {
+        "id" : "1",
+        "name" : "Bhushan Navgire",
+        "course" : "MS in Computer-Science "
+    },
+
+    {
+        "id" : "2",
+        "name" : "Karan Thakur",
+        "course" : "MS in Information System "
+    },
+
+    {
+        "id" : "3",
+        "name" : "Kritin Kondru",
+        "course" : "MS in Computer-Science"
+    },
+
+    {
+        "id" : "4",
+        "name" : "Raghav Gupta",
+        "course" : "MS in Information Systems "
+    },
+
+    {
+        "id" : "5",
+        "name" : "Romit Zunjarrao",
+        "course" : "MS in Computer-Science "
+    },
+
+    {
+        "id" : "6",
+        "name" : "Tejas Kulkarni",
+        "course" : "MS in Information Systems"
+    },
+
+    {
+        "id" : "7",
+        "name" : "Nazir Budhwani",
+        "course" : "MS in Computer-Science "
+    },
+
+    {
+        "id" : "8",
+        "name" : "Sohan Gaikwad",
+        "course" : "MS in Information Systems "
+    },
+
+    {
+        "id" : "9",
+        "name" : "Nikita Patil",
+        "course" : "MS in Computer-Science "
+    },
+
+    {
+        "id" : "10",
+        "name" : "Sanajan Chandrakshekar",
+        "course" : "MS in Information Systems "
+    }
+    
+    ]
+ }
